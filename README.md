@@ -23,3 +23,7 @@ Inclusão do Footer
 ## Atualiazação do  Header
     
 Atualização do Header
+
+## Atualização da Responsividade
+
+Atualização da Responsividadegit
