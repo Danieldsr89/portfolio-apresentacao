@@ -26,4 +26,4 @@ Atualização do Header
 
 ## Atualização da Responsividade
 
-Atualização da Responsividadegit
+Atualização da Responsividade
