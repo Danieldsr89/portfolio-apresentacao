@@ -27,3 +27,7 @@ Atualização do Header
 ## Atualização da Responsividade
 
 Atualização da Responsividade
+
+## Atualizaçao do index.html
+
+Atualizaçao do index.html
